@@ -1,0 +1,6 @@
+{
+  "/(main)/setting/page": "app/(main)/setting/page.js",
+  "/(main)/report/page": "app/(main)/report/page.js",
+  "/(main)/device/page": "app/(main)/device/page.js",
+  "/(main)/dashboard/page": "app/(main)/dashboard/page.js"
+}

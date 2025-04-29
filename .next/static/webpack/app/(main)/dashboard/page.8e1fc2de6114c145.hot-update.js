@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/(main)/dashboard/page",{
+
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CdashBoard%5Cdashboard-v1%5Cmanee-final-working-example%5Csrc%5Ccomponents%5CEnergyConsumptionWeeks.jsx&modules=C%3A%5CdashBoard%5Cdashboard-v1%5Cmanee-final-working-example%5Csrc%5Ccomponents%5CEnergyConsumptionLineChart.jsx&server=false!":
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CdashBoard%5Cdashboard-v1%5Cmanee-final-working-example%5Csrc%5Ccomponents%5CEnergyConsumptionWeeks.jsx&modules=C%3A%5CdashBoard%5Cdashboard-v1%5Cmanee-final-working-example%5Csrc%5Ccomponents%5CEnergyConsumptionLineChart.jsx&server=false! ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./src/components/EnergyConsumptionWeeks.jsx */ \"(app-pages-browser)/./src/components/EnergyConsumptionWeeks.jsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./src/components/EnergyConsumptionLineChart.jsx */ \"(app-pages-browser)/./src/components/EnergyConsumptionLineChart.jsx\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz1DJTNBJTVDZGFzaEJvYXJkJTVDZGFzaGJvYXJkLXYxJTVDbWFuZWUtZmluYWwtd29ya2luZy1leGFtcGxlJTVDc3JjJTVDY29tcG9uZW50cyU1Q0VuZXJneUNvbnN1bXB0aW9uV2Vla3MuanN4Jm1vZHVsZXM9QyUzQSU1Q2Rhc2hCb2FyZCU1Q2Rhc2hib2FyZC12MSU1Q21hbmVlLWZpbmFsLXdvcmtpbmctZXhhbXBsZSU1Q3NyYyU1Q2NvbXBvbmVudHMlNUNFbmVyZ3lDb25zdW1wdGlvbkxpbmVDaGFydC5qc3gmc2VydmVyPWZhbHNlISIsIm1hcHBpbmdzIjoiQUFBQSxnTkFBMEk7QUFDMUkiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz80YTUxIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiQzpcXFxcZGFzaEJvYXJkXFxcXGRhc2hib2FyZC12MVxcXFxtYW5lZS1maW5hbC13b3JraW5nLWV4YW1wbGVcXFxcc3JjXFxcXGNvbXBvbmVudHNcXFxcRW5lcmd5Q29uc3VtcHRpb25XZWVrcy5qc3hcIik7XG5pbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIkM6XFxcXGRhc2hCb2FyZFxcXFxkYXNoYm9hcmQtdjFcXFxcbWFuZWUtZmluYWwtd29ya2luZy1leGFtcGxlXFxcXHNyY1xcXFxjb21wb25lbnRzXFxcXEVuZXJneUNvbnN1bXB0aW9uTGluZUNoYXJ0LmpzeFwiKSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CdashBoard%5Cdashboard-v1%5Cmanee-final-working-example%5Csrc%5Ccomponents%5CEnergyConsumptionWeeks.jsx&modules=C%3A%5CdashBoard%5Cdashboard-v1%5Cmanee-final-working-example%5Csrc%5Ccomponents%5CEnergyConsumptionLineChart.jsx&server=false!\n"));
+
+/***/ })
+
+});
